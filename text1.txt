@@ -2,3 +2,6 @@ First git-test text file
 First change to git-test text1.txt from local
 Cambios directamente a GH en master
 Para probar el descargar cambios del master en gh
+Cambios hechos en gh en master directamente
+Cambios hechos en gh en master directamente
+
