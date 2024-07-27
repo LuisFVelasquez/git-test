@@ -3,3 +3,4 @@ Modified in rama1 local
 
 en github rama-1 modificado con nueva línea 4 1180
 
+en local rama-1 modificado en linea 6 1180bis
