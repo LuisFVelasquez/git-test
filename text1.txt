@@ -6,3 +6,4 @@ Cambios hechos en gh en master directamente
 Cambios hechos en gh en master directamente
 
 EN GH Master text1.txt agregada linea 8 con 1180
+En local master cambios tres simultaneos para push
